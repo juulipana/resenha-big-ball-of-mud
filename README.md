@@ -8,13 +8,13 @@ Um sistema pode se tornar uma "Big Ball of Mud" por um grande desencadeamento de
 
 Muitos fatores contribuem para a formação dessa bagunça, como os seguintes casos citados no artigo: 
 
-Falta de planejamento;
-Complexidade;
-Mudanças de requisitos;
-Falta de experiência dos desenvolvedores;
-Pressão de entrega e/ou prazos apertados;
-Priorização das funcionalidades imediatas ao invés da arquitetura;
-Custo e orçamento;
+* Falta de planejamento;
+* Complexidade;
+* Mudanças de requisitos;
+* Falta de experiência dos desenvolvedores;
+* Pressão de entrega e/ou prazos apertados;
+* Priorização das funcionalidades imediatas ao invés da arquitetura;
+* Custo e orçamento;
 
 Embora o código do tipo "Big Ball of Mud" seja muitas vezes confuso e insustentável, é inegável sua grande presença no meio da tecnologia. Ela surge como uma solução viável para o desafio de entregar um sistema funcional em ambientes de desenvolvimento com pressões de prazo e recursos limitados, cenário muito recorrente em nosso meio.
 
