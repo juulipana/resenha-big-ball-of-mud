@@ -1,5 +1,6 @@
-## Resumo ‘Big Ball of Mud’
-Artigo escrito por Brian Foote e Joseph Yoder, publicado em 26 de Agosto de 1997
+<h2 align="center">Resumo ‘Big Ball of Mud’</h2>
+<p align="center">Artigo escrito por Brian Foote e Joseph Yoder, publicado em 26 de Agosto de 1997.<br>
+Resenha escrita por Juliana Parreiras, aluna de Engenharia de Software, para a matéria de projeto de software.</p>
 
 O artigo "Big Ball of Mud" explora como o desenvolvimento de software pode levar a uma arquitetura insustentável, denominada "Big Ball of Mud". O ciclo de vida desse fenômeno passa por várias etapas: código descartável (Throwaway Code), crescimento incremental (Piecemeal Growth), manter o sistema funcionando (Keep it Working), esconder problemas (Sweeping it Under the Rug) e, eventualmente, a necessidade de uma reconstrução do projeto (Reconstruction).
 
